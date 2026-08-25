@@ -10,7 +10,7 @@ Approved baseline. Architecture status: GREEN for the documented target design.
 
 ## Repository state
 
-Baseline package prepared for repository initialization. The GitHub repository has been verified empty; the local initialization commit and push remain pending.
+The approved baseline documentation has been committed and pushed to `main`. `origin/main` was verified at baseline commit `dbeb01368e5e85051609d70b805817ebc61ff75d`. Repository initialization is complete; no SIGNAL implementation has started.
 
 ## Implementation state
 
@@ -32,9 +32,7 @@ Do not infer that any of the following currently exist or work:
 
 ## Immediate next milestone
 
-Complete project initialization by committing/pushing the approved baseline documentation and verifying GitHub reflects it.
-
-After that, prepare the first feature specification: **F001 — Hardware and Upstream Validation**.
+Prepare and approve F001 — Hardware and Upstream Validation.
 
 ## Known unverified facts to resolve in Phase 0
 
